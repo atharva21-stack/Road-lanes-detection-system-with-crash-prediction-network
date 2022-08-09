@@ -5,9 +5,9 @@ To recognize and designate lane lines on a road, this project employs Canny Edge
 
 This repo was developed with the intention of making it simple to grasp for anyone unfamiliar with the project.
 
-![](test_images/test_image.jpg)
-![](test_images/Picture2.png)
-![](test_images/Picture3.png)
+![](data/test_image.jpg)
+![](data/Picture2.png)
+![](data/Picture3.png)
 
 
 ## How it works
